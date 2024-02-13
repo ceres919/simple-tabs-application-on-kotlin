@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TabsApplication</string>
+    <string name="tab1">Фотка</string>
+    <string name="tab2">Список</string>
+    <string name="tab3">Таблица</string>
+    <string name="imageStatus">Sleepy cat</string>
+    <string-array name="stars">
+        <item>Альджеди 1</item>
+        <item>Алгеди</item>
+        <item>Дабих</item>
+        <item>Нашира</item>
+        <item>Денеб Алгеди</item>
+        <item>Альшат</item>
+        <item>Кастра</item>
+        <item>Арм</item>
+        <item>Дорс</item>
+        <item>Окул</item>
+        <item>Бос</item>
+    </string-array>
+</resources>
